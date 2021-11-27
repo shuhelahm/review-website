@@ -17,7 +17,7 @@ const Footer = () => {
                         <ul>
                             <li>Dhaka</li>
                             <li>Chittagong</li>
-                            <li>Sylhet</li>
+                            <li>Rajshahi</li>
                         </ul>
                     </div>
                     <div className='footer-contact'>
